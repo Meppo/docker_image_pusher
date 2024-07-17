@@ -1,4 +1,6 @@
 # images
+sonatype/nexus3
+registry:2
 nginx
 php:8.3-fpm-alpine
 debian:bullseye
