@@ -1,4 +1,5 @@
 # images
+busybox
 sonatype/nexus3
 registry:2
 nginx
