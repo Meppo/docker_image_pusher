@@ -1,6 +1,7 @@
 # images
 # httpd:2
-docker:19.03.12
+openjdk:8-jdk-alpine
+# docker:19.03.12
 # busybox
 # sonatype/nexus3
 # registry:2
