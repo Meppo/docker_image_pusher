@@ -1,6 +1,7 @@
 # images
 # httpd:2
-openjdk:8-jdk-alpine
+bitnami/kubectl:latest
+# openjdk:8-jdk-alpine
 # docker:19.03.12
 # busybox
 # sonatype/nexus3
