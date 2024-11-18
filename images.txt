@@ -1,6 +1,7 @@
 # images
+deluan/navidrome
 # httpd:2
-nginx:1.23.2-alpine
+# nginx:1.23.2-alpine
 # bitnami/kubectl:latest
 # openjdk:8-jdk-alpine
 # docker:19.03.12
