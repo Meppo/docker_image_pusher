@@ -1,5 +1,6 @@
 # images
-deluan/navidrome
+swaggerapi/swagger-ui
+# deluan/navidrome
 # httpd:2
 # nginx:1.23.2-alpine
 # bitnami/kubectl:latest
