@@ -1,6 +1,7 @@
 # images
 
-teezily/ftpd
+# teezily/ftpd
+fauria/vsftpd
 
 #mariadb:10.3.16
 
