@@ -1,6 +1,8 @@
 # images
 
-mariadb:10.3.16
+teezily/ftpd
+
+#mariadb:10.3.16
 
 # for ragflow
 # infiniflow/ragflow:v0.17.0 
